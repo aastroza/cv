@@ -20,43 +20,49 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Alonso Astroza Tagle",
+  initials: "AAT",
+  location: "Santiago, Chile, South America",
+  locationLink: "https://www.google.com/maps/place/Santiago,+Santiago+Metropolitan+Region",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Machine Learning Engineer / Data Scientist focused on bridging the gap between academia and industry.",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+    "With a diverse background in data science, machine learning, and engineering, I have over a decade of experience working in academia and the tech industry. My expertise lies in llms, image processing, machine learning and developing data-driven solutions.",
+  avatarUrl: "https://avatars.githubusercontent.com/u/8590877?v=4",
+  personalWebsiteUrl: "https://aastroza.github.io/",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "alonsoastroza@gmail.com",
+    tel: "+56969190480",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/aastroza",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/aastrozacl/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://twitter.com/aastroza",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Universidad de Chile",
+      degree: "Master of Science - MS, Electrical Engineer",
+      start: "2011",
+      end: "2015",
+    },
+    {
+      school: "Universidad de Chile",
+      degree: "Bachelor of Science - BS, Electrical Engineer",
+      start: "2004",
+      end: "2008",
     },
   ],
   work: [
