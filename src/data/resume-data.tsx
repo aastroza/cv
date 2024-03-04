@@ -108,7 +108,13 @@ export const RESUME_DATA = {
       title: "Research Engineer, Image Processing Lab",
       start: "2006",
       end: "2016",
-      description: "Researcher in various state-funded projects (Conicyt), as well as private-funded projects (Metro, NEC Chile, Micomo). All of the following were Machine Learning projects with applications in multiple industries, generating software tools built on OpenCV and C++."
+      description: "Researcher in various state-funded projects (Conicyt), as well as private-funded projects (Metro, NEC Chile, Micomo). All of the following were Machine Learning projects with applications in multiple industries, generating software tools built on OpenCV and C++."+
+      '<ol>' +
+        '<li>Initiate and plan collaborative projects</li>' +
+        '<li>Engage with stakeholders</li>' +
+        '<li>Align research with industry needs</li>' +
+        '<li>Ensure successful project delivery</li>' +
+      '</ol>'
     }
   ],
   skills: [
