@@ -48,22 +48,88 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Parabol",
-      link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
-      start: "2021",
-      end: "2024",
-      description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+      company: "Universidad del Desarrollo",
+      link: null,
+      badges: ["Data Science"],
+      title: "Deputy Director of Industry Partnerships, Data Science Institute",
+      start: "2023",
+      end: "Present",
+      description: "I lead the intersection between academic research and industrial applications at Institute of Data Science. My role involves initiating, planning, and executing collaborative projects that drive innovation and provide real-world solutions. I'm responsible for stakeholder engagement, aligning university research capabilities with industry needs, and ensuring successful project delivery."
+    },
+    {
+      company: "Universidad del Desarrollo",
+      link: null,
+      badges: ["Teaching"],
+      title: "Lecturer, Data Science Master's Program",
+      start: "2019",
+      end: "Present",
+      description: "Lecturer of the course \"Development of Data Products and Projects\", part of the Data Science master's program. The course schedule included practical classes using Fastapi, Streamlit, Modal and OpenAI API."
+    },
+    {
+      company: "Universidad del Desarrollo",
+      link: null,
+      badges: ["Data Science"],
+      title: "Senior Data Scientist, Data Science Institute",
+      start: "2020",
+      end: "2023",
+      description: null
+    },
+    {
+      company: "GeoVictoria",
+      link: null,
+      badges: ["Consulting"],
+      title: "Machine Learning Consultant",
+      start: "2020",
+      end: "Present",
+      description: null
+    },
+    {
+      company: "GeoVictoria",
+      link: null,
+      badges: ["Machine Learning"],
+      title: "Head of Data Science",
+      start: "2016",
+      end: "2020",
+      description: "Led the creation of new data-driven technological products for enterprise clients in Latin America."
+    },
+    {
+      company: "GeoVictoria",
+      link: null,
+      badges: ["Consulting"],
+      title: "Senior Data Scientist",
+      start: "2014",
+      end: "2016",
+      description: "Voice Biometrics consultant. Developer of a Data Visualization tool for retail."
+    },
+    {
+      company: "Universidad de Chile",
+      link: null,
+      badges: ["Research"],
+      title: "Research Assistant, Image Processing Lab",
+      start: "2011",
+      end: "2016",
+      description: "Researcher in various state-funded projects (Conicyt), as well as private-funded projects (Metro, NEC Chile, Micomo). All of the following were Machine Learning projects with applications in multiple industries, generating software tools built on OpenCV and C++."
+    },
+    {
+      company: "Universidad de Chile",
+      link: null,
+      badges: ["Research"],
+      title: "Research Assistant, Image Processing Lab",
+      start: "2006",
+      end: "2010",
+      description: "Researcher in various state-funded projects (Conicyt), as well as private-funded projects (Metro, NEC Chile, Micomo). All of the following were Machine Learning projects with applications in multiple industries, generating software tools built on OpenCV and C++."
     }
   ],
   skills: [
     "Artificial Intelligence",
     "Large Language Models",
     "Machine Learning",
-    "Computer Vision",
+    "Data Science",
     "Python",
+    "Prompt Engineering",
+    "Computer Vision",
+    "Structured Extraction",
+    "Guided Generation",
     "FastAPI",
     "SQL",
     "MLOps",
