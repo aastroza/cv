@@ -66,22 +66,22 @@ export const RESUME_DATA = {
       description: "Lecturer of the course \"Development of Data Products and Projects\", part of the Data Science master's program. The course schedule included practical classes using Fastapi, Streamlit, Modal and OpenAI API."
     },
     {
-      company: "Universidad del Desarrollo",
-      link: "https://ingenieria.udd.cl/persona/alonso-astroza-tagle/",
-      badges: ["Data Science"],
-      title: "Senior Data Scientist, Data Science Institute",
-      start: "2020",
-      end: "2023",
-      description: null
-    },
-    {
       company: "GeoVictoria",
       link: "https://www.geovictoria.com/",
       badges: ["Consulting"],
       title: "Machine Learning Consultant",
       start: "2020",
       end: "Present",
-      description: null
+      description: ""
+    },
+    {
+      company: "Universidad del Desarrollo",
+      link: "https://ingenieria.udd.cl/persona/alonso-astroza-tagle/",
+      badges: ["Data Science"],
+      title: "Senior Data Scientist, Data Science Institute",
+      start: "2020",
+      end: "2023",
+      description: ""
     },
     {
       company: "GeoVictoria",
@@ -103,20 +103,11 @@ export const RESUME_DATA = {
     },
     {
       company: "Universidad de Chile",
-      link: "https://www.die.cl/laboratorio-de-procesamiento-digital-de-imagenes/",
+      link: "https://ingenieria.uchile.cl/investigacion/laboratorios/departamento-de-ingenieria-electrica/laboratorio-de-procesamiento-digital-de-imagenes",
       badges: ["Research"],
-      title: "Research Assistant, Image Processing Lab",
-      start: "2011",
-      end: "2016",
-      description: "Researcher in various state-funded projects (Conicyt), as well as private-funded projects (Metro, NEC Chile, Micomo). All of the following were Machine Learning projects with applications in multiple industries, generating software tools built on OpenCV and C++."
-    },
-    {
-      company: "Universidad de Chile",
-      link: "https://www.die.cl/laboratorio-de-procesamiento-digital-de-imagenes/",
-      badges: ["Research"],
-      title: "Research Assistant, Image Processing Lab",
+      title: "Research Engineer, Image Processing Lab",
       start: "2006",
-      end: "2010",
+      end: "2016",
       description: "Researcher in various state-funded projects (Conicyt), as well as private-funded projects (Metro, NEC Chile, Micomo). All of the following were Machine Learning projects with applications in multiple industries, generating software tools built on OpenCV and C++."
     }
   ],
