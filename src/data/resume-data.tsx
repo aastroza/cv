@@ -49,7 +49,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Universidad del Desarrollo",
-      link: null,
+      link: "https://ingenieria.udd.cl/persona/alonso-astroza-tagle/",
       badges: ["Data Science"],
       title: "Deputy Director of Industry Partnerships, Data Science Institute",
       start: "2023",
@@ -58,7 +58,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Universidad del Desarrollo",
-      link: null,
+      link: "https://ingenieria.udd.cl/postgrado/magister-en-data-science/profesores/",
       badges: ["Teaching"],
       title: "Lecturer, Data Science Master's Program",
       start: "2019",
@@ -67,7 +67,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Universidad del Desarrollo",
-      link: null,
+      link: "https://ingenieria.udd.cl/persona/alonso-astroza-tagle/",
       badges: ["Data Science"],
       title: "Senior Data Scientist, Data Science Institute",
       start: "2020",
@@ -76,7 +76,7 @@ export const RESUME_DATA = {
     },
     {
       company: "GeoVictoria",
-      link: null,
+      link: "https://www.geovictoria.com/",
       badges: ["Consulting"],
       title: "Machine Learning Consultant",
       start: "2020",
@@ -85,7 +85,7 @@ export const RESUME_DATA = {
     },
     {
       company: "GeoVictoria",
-      link: null,
+      link: "https://www.geovictoria.com/",
       badges: ["Machine Learning"],
       title: "Head of Data Science",
       start: "2016",
@@ -94,7 +94,7 @@ export const RESUME_DATA = {
     },
     {
       company: "GeoVictoria",
-      link: null,
+      link: "https://www.geovictoria.com/",
       badges: ["Consulting"],
       title: "Senior Data Scientist",
       start: "2014",
@@ -103,7 +103,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Universidad de Chile",
-      link: null,
+      link: "https://www.die.cl/laboratorio-de-procesamiento-digital-de-imagenes/",
       badges: ["Research"],
       title: "Research Assistant, Image Processing Lab",
       start: "2011",
@@ -112,7 +112,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Universidad de Chile",
-      link: null,
+      link: "https://www.die.cl/laboratorio-de-procesamiento-digital-de-imagenes/",
       badges: ["Research"],
       title: "Research Assistant, Image Processing Lab",
       start: "2006",
