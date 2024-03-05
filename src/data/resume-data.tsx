@@ -108,13 +108,25 @@ export const RESUME_DATA = {
       title: "Research Engineer, Image Processing Lab",
       start: "2006",
       end: "2016",
-      description: "Researcher in various state-funded projects (Conicyt), as well as private-funded projects (Metro, NEC Chile, Micomo). All of the following were Machine Learning projects with applications in multiple industries, generating software tools built on OpenCV and C++."+
-      '<ol>' +
-        '<li>Initiate and plan collaborative projects</li>' +
-        '<li>Engage with stakeholders</li>' +
-        '<li>Align research with industry needs</li>' +
-        '<li>Ensure successful project delivery</li>' +
-      '</ol>'
+      description: (
+        <>
+          <p>
+          Researcher in various state-funded projects (Conicyt), as well as private-funded projects (Metro, NEC Chile, Micomo). All of the following were Machine Learning projects with applications in multiple industries, generating software tools built on OpenCV and C++.
+          </p>
+          <li>
+          <a href="https://www.conicyt.cl/wp-content/themes/fondef/encuentra_proyectos/PROYECTO/04/I/D04I1256.html">FONDEF D04I-1256</a>: Biometrics for smart video surveillance.
+          </li>
+          <li>
+          FONDEF D08I-1060: Smart pattern recognition in video, applications in surveillance and mining.
+          </li>
+          <li>
+          INNOVA 12IDL2-13673: Monitoring system for mining workers’ safety with Machine Learning.
+          </li>
+          <li>
+          INNOVA 13IDL2-23589: Automated Monitoring of Points of Sale for Retail Products using Digital Image Processing
+          </li>
+        </>
+      )
     }
   ],
   skills: [
