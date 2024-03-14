@@ -6,9 +6,9 @@ export const RESUME_DATA = {
   location: "Santiago, Chile, South America",
   locationLink: "https://www.google.com/maps/place/Santiago,+Santiago+Metropolitan+Region",
   about:
-    "Machine Learning Engineer / Data Scientist focused on bridging the gap between academia and industry.",
+    "AI engineer. Started in computer vision research, then led ML-powered products at tech startups. Now bridging industry and academia at a data science institute. Constantly building through side projects, open-source collaborations, and AI consulting for startups. Passionate about teaching, delivering data science master's courses and public workshops to share knowledge.",
   summary:
-    "Engineer with over 10 years of experience in R&D for Artificial Intelligence and Data Science projects. Focus on building software powered by Large Language Models, such as ChatGPT. Lecturer in a Master's Program in Data Science, teaching Data Products Development.",
+    "I'm an electrical engineer who began my career conducting research in computer vision at an Image Processing Laboratory. I then transitioned to tech startups, where I applied my machine learning knowledge to lead the development of data-driven products. Subsequently, I was hired by a Data Science Institute to serve as the link between industry and academia in applied research projects. I'm constantly building and creating, with several side projects, open-source collaborations, and AI consulting engagements for various startups. In addition to my professional work, I have a strong passion for teaching. I serve as a professor in a Data Science Master's program and create workshops that I release publicly for anyone who wants to learn. Sharing knowledge and helping others grow in the field of data science and AI is incredibly fulfilling for me. Throughout my career, I've developed expertise across the AI project lifecycle, from research and modeling to deploying production-ready systems. I'm always eager to apply the latest advancements in machine learning, particularly in computer vision, natural language processing, and MLOps, to solve real-world challenges and drive business value.",
   avatarUrl: "https://avatars.githubusercontent.com/u/8590877?v=4",
   personalWebsiteUrl: "https://aastroza.github.io/",
   contact: {
